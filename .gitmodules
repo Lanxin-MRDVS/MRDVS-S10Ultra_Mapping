@@ -1,0 +1,12 @@
+[submodule "FAST_LIO"]
+	path = FAST_LIO
+	url = https://github.com/Lanxin-MRDVS/FAST_LIO
+	branch = main
+[submodule "rpg_vikit"]
+	path = rpg_vikit
+	url = https://github.com/Lanxin-MRDVS/rpg_vikit
+	branch = master
+[submodule "FAST-LIVO2"]
+	path = FAST-LIVO2
+	url = https://github.com/Lanxin-MRDVS/FAST-LIVO2
+	branch = main
